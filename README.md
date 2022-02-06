@@ -14,13 +14,7 @@
 
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
-
+  
 ### 💬 Contact
 </br><img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
 <string>wavedaily#6897</string>
-
-
-### Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=x100pre&theme=ayu-mirage)](https://git.io/streak-stats)
-[![Yuhtin stats](https://github-readme-stats.vercel.app/api?username=x100pre&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/x100pre/)
